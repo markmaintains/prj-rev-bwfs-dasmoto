@@ -1,0 +1,48 @@
+
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+
+.brushes {
+  background-color: mediumspringgreen;
+  Font-family: Helvetica;
+  Font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
+
+
+span {
+ font-weight: bold;
+ color: blue;
+ font-family: Helvetica;
+}
+
+.frames {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+}
+
+.paint {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+}
